@@ -1,6 +1,6 @@
 # RedManager
 
-You need to access the directory through your terminal and then write "npm start"
+You need to access the directory through your terminal and then write "npm start" </br>
 This will open a window in your Brower and the table will be visualized
 
 Link for a better understanding how ag-grid react works:
